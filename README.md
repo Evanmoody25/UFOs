@@ -49,3 +49,7 @@ JavaScript is no different: there are guidelines and requirements for writing it
 Using JavaScript and HTML, you’ll modify the code in your index.html file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape, as shown in the following image:
 
 ![image](https://user-images.githubusercontent.com/89880015/147957226-e8d5dc92-ab52-4c38-bdfb-b52f28cb7e29.png)
+
+* Deliverable 2: 
+
+A written analysis
